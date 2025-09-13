@@ -10,8 +10,9 @@
     {
       "id": "3.3.4",
       "releasedAt": 1757728768000,
-      "updateType": "minor"
+      "updateType": "minor_breaking"
     }
   ]
 }
+
 
