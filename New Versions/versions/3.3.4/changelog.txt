@@ -1,0 +1,8 @@
+- Added the following mods:
+
+Modpack Update Checker
+Ixeris
+Comforting Campfires
+UndergroundRooms
+
+- Lowered spawn rate of Jaden's Nether Expansion mobs in the Deep Dark.
