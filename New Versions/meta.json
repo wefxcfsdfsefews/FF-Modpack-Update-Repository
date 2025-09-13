@@ -3,6 +3,15 @@
   "hotfixesFormat": null,
   "versions": [
     {
+      "id": "3.3.3",
+      "releasedAt": 1757728763691,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/fabricated-frontiers/files/all?page=1&pageSize=20/"
+        }
+      }
+    },
+    {
       "id": "3.3.4",
       "releasedAt": 1757728763691,
       "promotions": {
@@ -12,6 +21,4 @@
       }
     }
   ]
-
 }
-
